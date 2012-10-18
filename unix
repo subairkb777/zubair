@@ -1,0 +1,3 @@
+su -     :super user
+gksu nautilus      :access root folder
+sudo passwd root   :tochage password of root

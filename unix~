@@ -1,0 +1,2 @@
+su -     :super user
+gksu nautilus      :access root folder
